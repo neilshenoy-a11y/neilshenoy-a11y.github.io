@@ -1,5 +1,0 @@
-Put the rest of the Retro Bowl game files directly in this folder, next to index.html:
-  RetroBowl_texture_0.png
-  Teams.txt, Schedule.txt, LanguageUS.txt, Colleges.txt, Charities.txt,
-  Achievements.txt, RetroBowlHOF.txt, Names_F0.txt, Names_F1.txt, Names_L.txt
-  all the snd_*.ogg / .mp3 sound files
