@@ -24,6 +24,6 @@ window.GAMES = [
     description: "Manage your football team to victory.",
     category: "Sports",
     icon: "🏈",
-    src: "games/retro-bowl/index.html"
+    src: "games/retrobowl/retrobowl.html"
   }
 ];
