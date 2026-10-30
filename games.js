@@ -18,5 +18,12 @@ window.GAMES = [
     category: "Sandbox",
     icon: "⛏️",
     src: "games/eaglercraft.html"
+  },
+  {
+    title: "Retro Bowl",
+    description: "Manage your football team to victory.",
+    category: "Sports",
+    icon: "🏈",
+    src: "games/retro-bowl/index.html"
   }
 ];
